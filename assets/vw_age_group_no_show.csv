@@ -1,0 +1,8 @@
+age_group,total_appointments,no_show_rate_percent
+"Teen (13-17)",6343,26.64
+"Young Adult (18-35)",25624,23.82
+"Child (0-12)",21036,20.47
+"Adult (36-55)",30019,19.71
+"Elderly (76+)",5392,16.14
+"Senior (56-75)",22112,15.53
+Unknown,1,0.00
