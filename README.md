@@ -126,10 +126,12 @@ Healthcare-No-Shows-Analysis/
 
 ## Deliverables
 
-* Cleaned, analysis-ready dataset
-* MySQL database with analytical views
-* Interactive Tableau dashboard
-* Documented end-to-end analytics workflow
+* Some of the assets created in the process of analysis: [assets](assets)
+* Raw and clean data: [data](data)
+* Data Cleaning Process using Python: [python](python)
+* Project Report: [report](report)
+* EDA done inside MySQL Workbench: [sql](sql)
+* Visualizations done using Tableau Public: [tableau](tableau)
 
 ---
 
@@ -150,7 +152,7 @@ This project demonstrates the ability to:
 
 ---
 
-## ✨ Author
+## Author
 
-**Ibrhaim M. Hassan**
+**Ibrahim M. Hassan**
 Data Analytics Portfolio Project
