@@ -122,6 +122,13 @@ Healthcare-No-Shows-Analysis/
 
 ---
 
+## Dashboard Preview
+
+### Business Performance Overview
+![No Shows Dashboard](assets/No-Shows-Dashboard.png)
+
+---
+
 ## Deliverables
 
 * Some of the assets created in the process of analysis: [assets](assets)
